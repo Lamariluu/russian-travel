@@ -28,4 +28,4 @@
 
 **GitHub**
 
-*[Ссылка на GitHub](https://lamariluu.github.io/russian-travel/index.html)
+* [Ссылка на GitHub](https://lamariluu.github.io/russian-travel/)
