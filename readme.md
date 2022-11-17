@@ -26,4 +26,6 @@
 * Использование методологии БЭМ
 * Адаптивная вёрстка
 
+**GitHub**
 
+*[Ссылка на GitHub](https://lamariluu.github.io/russian-travel/index.html)
